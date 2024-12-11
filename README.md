@@ -1,4 +1,4 @@
-Simulations for optional semeste project for Robotics Course.
+Simulations for optional semester project for Robotics Course (ECE AUTh).
 Task of the prooject is to control a 7-DOF Kuka LWR robotic 
 manipulator in two different tasks.
 1. To track the free motion of a ball inside a rectangular with its camera central axis 
